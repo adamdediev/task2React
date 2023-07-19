@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task2React/static/css/main.d5608c70.css",
+    "main.js": "/task2React/static/js/main.08be8fd3.js",
+    "static/media/background.png": "/task2React/static/media/background.d5204ec37dd2753bc65b.png",
+    "static/media/mobile.png": "/task2React/static/media/mobile.8b01e0451e27289a81ad.png",
+    "index.html": "/task2React/index.html",
+    "main.d5608c70.css.map": "/task2React/static/css/main.d5608c70.css.map",
+    "main.08be8fd3.js.map": "/task2React/static/js/main.08be8fd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5608c70.css",
+    "static/js/main.08be8fd3.js"
+  ]
+}
