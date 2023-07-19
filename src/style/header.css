@@ -1,0 +1,88 @@
+header{
+    padding-top: 45px;
+    height: 73px;
+}
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    max-width: 1140px;
+    width: 100%;
+    
+}
+
+.header_logo{
+    background: url('../../public/img/logo_welbex.png') no-repeat;
+    width: 140px;
+    height: 24px;
+    position: relative;
+    margin-top: 13px;
+}
+.header_logo::after{
+    content: "крупный интегратор CRM в Росcии и ещё 8 странах";
+    font-weight: 300;
+    font-size: 10px;
+    color: #E4E5EA;
+    top: 34px;
+    position: absolute;
+}
+
+.header_connection_whatsapp{
+    background: url('../../public/img/whatsapp.png') no-repeat;
+    width: 16px;
+    height: 16px;
+    display: block;
+
+}
+
+.header_connection_telegram{
+    background: url('../../public/img/telegram.png') no-repeat;
+    width: 18px;
+    height: 14px;
+    display: block;
+
+}
+.header_connection_viber{
+    background: url('../../public/img/viber.png') no-repeat;
+    width: 16px;
+    height: 16px;
+    display: block;
+}
+
+.header_menu_item{
+    font-size: 16px;
+    display: flex;
+    list-style: none;
+    font-family: 'Inter';
+    font-weight: 500;
+}
+.header_menu_link{
+    padding: 0px 15px;
+}
+.header_menu_item:nth-child(1){
+    padding-left: 37px;
+}
+.header_connection{
+    margin-top: 17px;
+    margin-left: 127.5px;
+    letter-spacing: 0.534px;
+}
+
+.header_connection{
+    display: flex;
+}
+.header_connection_telegram{
+    padding-right: 17px;
+}
+.header_connection_viber{
+    margin-left: 19px;
+}
+.header_connection_whatsapp{
+    margin-left: 32px;
+}
+
+.header_connection_icon{
+    display: flex;
+    margin-left: 49px;
+    
+}
