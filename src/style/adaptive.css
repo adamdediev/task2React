@@ -115,6 +115,7 @@
     .App{
      background: url('../../public/img/mobile.png') no-repeat;
      background-position: 50% 55px;
+     background-size: contain;
     }
 
     h1{

@@ -7,7 +7,7 @@ export default function Main() {
         <div className='container flex '>
             <aside>
               <div className="aside_title"><h1>Зарабатывайте больше <span>с WELBEX</span> </h1></div>
-              <div className="aside_subtitle">Развиваем и контролируем продажи за вас</div>
+              <div className="aside_subtitle">Развиваем и контролируем продажи за вас</div>
             </aside>
 
             <nav>
